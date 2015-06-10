@@ -3,32 +3,33 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
+# Nikos Charonitakis <charosn@her.forthnet.gr>, 2002-2004
 # Dimitrios Michelinakis <dimitris@michelinakis.gr>, 2006
 # Dimitrios Typaldos <dtfedora@yahoo.com>, 2007
-# Dimitris Glaros <dimitrisglaros@gmail.com>, 2012
 # Dimitris Glezos <dimitris@glezos.com>, 2006-2007
-# Dimitris Glezos <glezos@transifex.com>, 2011
-# ioza1964 <ioza1964@yahoo.gr>, 2013
-# jiannis bonatakis <jbonatakis@gmail.com>, 2011
 # Kostas Papadimas <pkst@gnome.org>, 2008-2009
-# Nikos Charonitakis <charosn@her.forthnet.gr>, 2002-2004
-# Nikos Roussos <nikos@roussos.cc>, 2012
-# mitzie <soldizach@gmail.com>, 2013
 # thalia <saliyath@gmail.com>, 2009
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# jiannis bonatakis <jbonatakis@gmail.com>, 2011
+# Dimitris Glaros <dimitrisglaros@gmail.com>, 2012
+# Nikos Roussos <nikos@roussos.cc>, 2012
+# ioza1964 <ioza1964@yahoo.gr>, 2013
+# mitzie <soldizach@gmail.com>, 2013
+# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugzilla.redhat.com/bugzilla\n"
 "POT-Creation-Date: 2015-03-17 15:19+0000\n"
-"PO-Revision-Date: 2013-06-29 06:59-0400\n"
-"Last-Translator: ioza1964 <ioza1964@yahoo.gr>\n"
-"Language-Team: Greek <trans-el@lists.fedoraproject.org>\n"
+"PO-Revision-Date: 2015-06-10 15:36+0200\n"
+"Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
+"Language-Team: Greek <team@gnome.gr>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.6.2\n"
+"X-Generator: Gtranslator 2.91.7\n"
 
 #: ../asyncipp.py:473 ../authconn.py:447 ../authconn.py:449
 #: ../errordialogs.py:63 ../pysmb.py:90 ../pysmb.py:92
